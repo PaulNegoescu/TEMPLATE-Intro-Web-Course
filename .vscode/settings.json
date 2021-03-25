@@ -3,12 +3,16 @@
   "workbench.iconTheme": "material-icon-theme",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
-  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.fontFamily": "'Dank Mono', Consolas, 'Courier New', monospace",
   "editor.fontLigatures": true,
   "editor.wordBasedSuggestions": false,
   "editor.tabSize": 2,
   "editor.detectIndentation": false,
   "editor.suggestSelection": "first",
+  "prettier.jsxSingleQuote": false,
+  "prettier.singleQuote": true,
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
   "files.autoSave": "onWindowChange",
   "files.exclude": {
     "USE_GITIGNORE": true
