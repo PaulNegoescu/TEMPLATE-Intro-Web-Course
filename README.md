@@ -27,6 +27,8 @@ Here you will learn all the basics to get you started with the web course.
 3. Install the recommended plugins
    - just click the `Install` button on the message in the bottom right of Visual Studio Code
      ![Install recommended Plugins](images/RecommendedPlugins.png "How to install recommende plugins")
+     
+4. Look in the .vscode folder, there is a settings file, you can copy those to the VSCode global settings.json file (in VSCode click File -> Preferences -> Settings, now there is a button near the top tha says "Open seetings.json" (looks like a file with a curved arrow), click it and paste there)
 
 ## Keyboard shortcut cheatsheet
 
@@ -51,15 +53,6 @@ Here you will learn all the basics to get you started with the web course.
 6. Close current REPL (Read Eval Print Loop, an application that lets you type inside it) or the console itself: hit `CTRL-D` or type `exit`
 
 ## Git Cheatsheet
-
-### Homework workflow
-
-1. Click the URL of the homework assignment
-2. GitHub will create a repo for you and give you the URL, you can copy it here, directly
-3. Clone the repo as above, copy the URL from GitHub, in cmder navigate to `C:/siit` and type `git clone <paste-the-url>`
-4. `git switch -c work` (create a new branch you will work on and switch to it immediately)
-5. `git push -u origin work` (sync the new branch to the remote)
-6. Do your stuff, work like crazy (in VS Code :))
 
 Do the following as often as possible, preferably every time before you take a break:
 
