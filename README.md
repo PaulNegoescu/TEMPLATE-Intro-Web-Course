@@ -69,9 +69,3 @@ Do the following as often as possible, preferably every time before you take a b
 Do the following at least every day, you can do it as often as the above two points:
 
 1. `git push`
-
-When your homework is done, open a pull request:
-
-1. Go to GitHub, find the repo you were
-2. Click `Pull Requests`
-3.
