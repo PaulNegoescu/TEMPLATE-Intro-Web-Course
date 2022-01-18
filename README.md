@@ -14,7 +14,7 @@ Here you will learn all the basics to get you started with the web course.
    - Clone this repo:
      - Create a folder in the root of your drive, call it something short like `learning`, e.g. `C:\learning`, `/learning`
      - Click the green button in github
-       ![Clone the repo](images/CloneRepo.png) "Clone Repo")
+       ![Clone the repo](images/CloneRepo.png 'Clone Repo')
      - Copy the URL `CTRL+C` / `CMD+C`
      - Open a terminal and type the following:
      - `cd /c/learning`(git bash) / `cd /learning`(Linux/Mac) / `cd C:\learning`(cmd/cmder) (Navigate to the newly created folder)
@@ -49,10 +49,11 @@ Here you will learn all the basics to get you started with the web course.
 4. Clear the console: `clear` or hit `CTRL+L`
 5. Stop currently executing program: hit `CTRL+C`
 6. Close current REPL (Read Eval Print Loop, an application that lets you type inside it) or the console itself: hit `CTRL+D` or type `exit`
+7. Close Vim: `ESC` then `:wq` (w is for saving the file, if you don't want to save `:q` is enough or `:q!` to quit forcibly (if there are changes you don't want to save))
 
-## Windows Git extra configuration
+## Windows Git Bash extra configuration
 
-In this repo you will find a directory called `homedir`. Copy whatever is inside to your home dir.
+In this repo you will find a directory called `homedir`. Copy whatever is inside to your home dir. Take care the bash profile file contains the string "Paul" you might want to change that :)
 
 How do you find the Home dir?
 In git bash type `cd ~` then `explorer .` you are now in your home dir.
