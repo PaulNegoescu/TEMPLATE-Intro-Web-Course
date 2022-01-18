@@ -57,3 +57,7 @@ In this repo you will find a directory called `homedir`. Copy whatever is inside
 
 How do you find the Home dir?
 In git bash type `cd ~` then `explorer .` you are now in your home dir.
+
+The `.bashrc` file also contains some aliases that are particular to Paul's system and setup, you might want to edit those too.
+
+To further configure your Git Bash colors and text: [click here](https://blog.devgenius.io/how-to-customize-the-git-bash-shell-prompt-336f6aefcf3f).
