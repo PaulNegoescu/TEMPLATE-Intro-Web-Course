@@ -9,11 +9,12 @@
     "eamodio.gitlens",
     "bradgashler.htmltagwrap",
     "ritwickdey.liveserver",
-    "zhuangtongfa.material-theme",
-    "pkief.material-icon-theme",
+    "daylerees.rainglow",
+    "PKief.material-icon-theme",
     "esbenp.prettier-vscode",
     "humao.rest-client",
     "bradlc.vscode-tailwindcss",
+    "mikestead.dotenv",
     "VisualStudioExptTeam.vscodeintellicode"
   ]
 }
