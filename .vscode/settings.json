@@ -1,7 +1,7 @@
 {
   "workbench.colorTheme": "Earthsong (rainglow)",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.sideBar.location": "right",
+  "workbench.sideBar.location": "left",
   "terminal.integrated.tabs.enabled": true,
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
